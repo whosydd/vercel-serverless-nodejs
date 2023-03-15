@@ -1,0 +1,12 @@
+{
+  "name": "vercel-serverless-nodejs",
+  "description": "",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "GY <dev.youngkwok718@gmail.com>",
+  "devDependencies": {
+    "@vercel/node": "^2.9.12",
+    "prettier": "^2.8.4"
+  }
+}
